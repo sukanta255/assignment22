@@ -33,7 +33,7 @@ app.use((err,req,res,next) => {
 
 // running server at port number 3000
 const port = process.env.port || 3000;
-app.listen(port, async()=>{
+app.listen(port, ()=>{
     try{
         console.log(`Server is running at port Number ${port}`);
 
