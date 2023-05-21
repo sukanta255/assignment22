@@ -132,6 +132,48 @@
             "email": "prateek1t@gmail.com",
             "phone": 84512362528,
             "password": 12345686
+        },
+        {
+            "id": 20,
+            "name": "Prateek Shukla1t",
+            "email": "prateek1t@gmail.com",
+            "phone": 84512362528,
+            "password": 12345686
+        },
+        {
+            "id": 24,
+            "name": "Sukanta Pramanik1",
+            "email": "sukanta1@gmail.com",
+            "phone": 12345678901,
+            "password": 12341
+        },
+        {
+            "id": 26,
+            "name": "Sukanta Pramanik1",
+            "email": "sukanta1@gmail.com",
+            "phone": 12345678901,
+            "password": 12341
+        },
+        {
+            "id": 26,
+            "name": "Sukanta Pramanik1",
+            "email": "sukanta1@gmail.com",
+            "phone": 12345678901,
+            "password": 12341
+        },
+        {
+            "id": 27,
+            "name": "Sukanta Pramanik1",
+            "email": "sukanta1@gmail.com",
+            "phone": 12345678901,
+            "password": 12341
+        },
+        {
+            "id": 28,
+            "name": "Sukanta Pramanik1",
+            "email": "sukanta1@gmail.com",
+            "phone": 12345678901,
+            "password": 12341
         }
     ]
 }
